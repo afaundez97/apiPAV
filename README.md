@@ -1,13 +1,13 @@
-# API de Smartphones con Node.js
+# API de Smartphones Xiaomi con Node.js
 
-Esta es una simple API de Smartphones construida con Node.js y Express.
+Esta es una API simple de Smartphones diseñada específicamente para los Smartphones Xiaomi. La aplicación está construida con Node.js y Express.
 
 ## Endpoints
 
-- **GET /api/Smartphones**: Obtiene todos los Smartphones.
-- **GET /api/Smartphones/:id**: Obtiene un Smartphone por su ID.
-- **POST /api/Smartphones**: Agrega un nuevo Smartphone.
-- **DELETE /api/Smartphones/:id**: Elimina un Smartphone por su ID.
+- **GET /api/Smartphones**: Obtiene todos los Smartphones Xiaomi.
+- **GET /api/Smartphones/:id**: Obtiene un Smartphone Xiaomi por su ID.
+- **POST /api/Smartphones**: Agrega un nuevo Smartphone Xiaomi.
+- **DELETE /api/Smartphones/:id**: Elimina un Smartphone Xiaomi por su ID.
 
 ## Ejecutar el Proyecto
 
